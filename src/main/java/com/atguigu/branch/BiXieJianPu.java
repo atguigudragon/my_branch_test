@@ -2,6 +2,6 @@ package com.atguigu.branch;
 
 public class BiXieJianPu {
 	public static void main(String[] args) {
-		System.out.println("master cont");
+		System.out.println("master context");
 	}
 }
